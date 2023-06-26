@@ -16,9 +16,14 @@ function updateCar(id, car) {
     return knex("cars").where("id", id).update(car);
 };
 
+function getCar(id) {
+    return knex("cars").where("id",id).select("*");
+};
+
 module.exports = {
     createCar,
     getAllCars,
     deleteCar,
-    updateCar
+    updateCar,
+    getCar
 }

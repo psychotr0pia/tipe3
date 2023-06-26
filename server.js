@@ -15,6 +15,10 @@ app.get("/cars", async (req, res) => {
     res.status(200).json({ cars });
 });
 
+app.get("/cars/:id", async (req, res) => {
+    const car = await db.getCar(req.params.id);
+    res.status(200).json({ car });
+});
 app.patch("/cars/:id", async (req, res) => {
     const id = await db.updateCar(req.params.id, req.body);
     req.status(200).json( { id });
