@@ -1,0 +1,25 @@
+OBJETIVOS DEL PROYECTO
+"El Grupo deberá indicar su objetivo general y cada uno de sus objetivos específicos, cumpliendo en cada uno de ellos los criterios SMART.
+Si hubo algún cambio indicarlo"
+Presentacion 1: cuantos objetivos son?
+EJ SMART: Our goal is to [quantifiable objective] by [timeframe or deadline]. [Key players or teams] will accomplish this goal by [what steps you’ll take to achieve the goal]. Accomplishing this goal will [result or benefit].
+OBJETIVO 1: Diseñar la arquitectura y los diagramas de flujo de la aplicación en un plazo de 2 semanas( 2 de mayo hasta el día 16 de mayo). Nosotros conseguiremos hacer esto usando la herramienta draw.io. Tales diagramas nos ayudara saber los componentes de la aplicacion.
+• Específico: Crear una arquitectura y diagramas de flujo para la aplicación.
+• Medible: Finalizar el diseño de la arquitectura y los diagramas de flujo en un plazo de 2 semanas.
+• Alcanzable: Se usara la aplicacion draw.io
+• Relevante: El diseño de la arquitectura y los diagramas de flujo es fundamental para conocer los componentes necesarios para la aplicacion.
+• Temporalmente definido: El plazo establecido es de 2 semanas para completar el diseño.
+
+OBJETIVO 2: Desarrollar la funcionalidad de registro de datos de una persona en un plazo de 4 semanas (Desde el 9 de mayo hasta el 6 de junio). Usaremos node.js para ello. Tal funcionalidad es importante ya que la fundacion requiere AGREGAR RAZON
+• Específico: Implementar una funcionalidad que permita el registro de datos personales en la herramienta.
+• Medible: Finalizar el desarrollo de la funcionalidad de registro de datos en un plazo de 4 semanas.
+• Alcanzable: Se usara node.js para desarrollar la funcionalidad.
+• Relevante: BUSCAR USO DE LA FUNCIONALIDAD
+• Temporalmente definido: El plazo establecido es de 4 semanas para completar el desarrollo de esta funcionalidad.
+
+OBJETIVO 3: Implementar la funcionalidad de visualización de datos en un plazo de 3 semanas. (Desde el 6 de junio hasta el 20 de junio). Esta sera por medio de una tabla, udando el framework electronjs. Esta funcionalidad es importante ya que la fundacion requiere visualizar los datos por medio de una tabla para una gestion eficiente de sus recursos.
+• Específico: Incorporar una funcionalidad de datos por medio de una tabla.
+• Medible: Finalizar el desarrollo de la funcionalidad de visualización de datos en un plazo de 3 semanas.
+• Alcanzable: Se usara el framework electronjs para ello.
+• Relevante: La visualización de datos facilita la comprensión y el análisis de la información, siendo crucial para una gestión eficiente.
+• Temporalmente definido: El plazo establecido es de 3 semanas para completar el desarrollo de esta funcionalidad.
